@@ -1,5 +1,5 @@
 ## Hi I'm ellisabeta✨💕  
-![cover](cat-cover.jpg)
+![cover](cover-cat.jpg)
 
 ### About me
 I'm a software developer apprentice and currently expanding my knowledge.📖  
