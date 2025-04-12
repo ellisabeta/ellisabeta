@@ -22,3 +22,6 @@ My other skills:
 - ✨ hanging out with friends
 ---
 Thank you so much, byee💕🫧🧋
+
+
+[![ellisabeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellisabeta)](https://github.com/ellisabeta/github-readme-stats)
