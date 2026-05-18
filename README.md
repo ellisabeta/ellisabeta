@@ -8,8 +8,9 @@ For now, I mainly develop web applications, and I've also tried developing Andro
 [![ellisabeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellisabeta)](https://github.com/ellisabeta/github-readme-stats)
   
 ### My Knowledge
-I code in the following programming languages: **Java**, **TypeScript**. Currently, I am **learning** more languages as a full-stack developer, such as **Go** and **Python**.  
-![ProgrammingLanguages](https://skillicons.dev/icons?i=java,python,typescript,javascript,b&theme=light)  
+I code in the following programming languages: **Java**, **TypeScript**, **Python**.  
+Currently, I am **learning** more languages as a full-stack developer, such as **Go** and **Scala**.  
+![ProgrammingLanguages](https://skillicons.dev/icons?i=java,scala,python,typescript,javascript,b&theme=light)  
 
 I've also worked with frameworks such as: **NestJS**, **Spring-Boot** and **React**  
 ![FrameworksAndLibraries](https://skillicons.dev/icons?i=react,spring,nestjs,nextjs,b&theme=light)
