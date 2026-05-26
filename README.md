@@ -2,12 +2,9 @@
 ![cover](cover-cat.jpg)
 
 ### About me
-I'm a software developer apprentice and currently expanding my knowledge.📖  
-For now, I mainly develop web applications, and I've also tried developing Android mobile applications. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="16" style="vertical-align:middle;">💻  
-
-[![ellisabeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellisabeta)](https://github.com/ellisabeta/github-readme-stats)
+I'm a software developer apprentice and currently expanding my knowledge.💻  
   
-### My Knowledge
+### My Experience
 I code in the following programming languages: **Java**, **TypeScript**, **Python**.  
 Currently, I am **learning** more languages as a full-stack developer, such as **Go** and **Scala**.  
 ![ProgrammingLanguages](https://skillicons.dev/icons?i=java,scala,python,typescript,go,b&theme=light)  
@@ -18,9 +15,6 @@ I've also worked with frameworks such as: **NestJS**, **Spring-Boot** and **Reac
 My other skills:  
 ![IDEs](https://skillicons.dev/icons?i=vscode,idea,postgres,androidstudio,docker,b&theme=light)
 
-### My Hobbies
-- 🎹 piano
-- 🎶 music
-- 🏂 snowboarding
+
 ---
 Thank you so much, byee💕🫧🧋
